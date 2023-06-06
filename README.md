@@ -1,4 +1,9 @@
-# Implementation of Speech Recognition
+### EX NO: 05
+
+### DATE: 18/05/2023
+
+
+# <br/><p align = "center"> Implementation of Speech Recognition </p>
 
 ## AIM
 Construct a python program to implement speech recognition.
@@ -17,7 +22,7 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 * Step 7: Print the transcribed text on the console if the transcribe process was successful.
 * Step 8: Handle any potential errors during the transcribing process. If the audio is not clear, print "not clear". If there's an error while trying to retrieve the transcribed text from the Google speech recognizer, print "Couldnt get results from google speech recognizer".
 
-## PROGRAM
+## <br><br><br><br><br>PROGRAM
 ```python3
 import speech_recognition as sr
 
